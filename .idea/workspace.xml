@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="97b63e43-de71-42f0-8038-8c7a08341060" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/codingTasks/AnimalBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/codingTasks/Registration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/codingTasks/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/codingTasks/Task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/codingTasks/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/codingTasks/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/codingTasks/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/codingTasks/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/codingTasks/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/codingTasks/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/codingTasks/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/codingTasks/Task9.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2fgyHpLTTsGQkC7sqz6aufKdH8q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Registration (1).executor": "Run",
+    "Application.Registration.executor": "Run",
+    "Application.RegistrationTester.executor": "Run",
+    "Application.Task1.executor": "Run",
+    "Application.Task10.executor": "Run",
+    "Application.Task2.executor": "Run",
+    "Application.Task3.executor": "Run",
+    "Application.Task4.executor": "Run",
+    "Application.Task5.executor": "Run",
+    "Application.Task6.executor": "Run",
+    "Application.Task7.executor": "Run",
+    "Application.Task8.executor": "Run",
+    "Application.Task9.executor": "Run",
+    "Application.ZooTester.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="ProjectBatch19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Registration (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Registration" />
+      <module name="ProjectBatch19" />
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.codingTasks.RegistrationTester" />
+      <module name="ProjectBatch19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.codingTasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.codingTasks.Task2" />
+      <module name="ProjectBatch19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.codingTasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZooTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.codingTasks.ZooTester" />
+      <module name="ProjectBatch19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.codingTasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.ZooTester" />
+        <item itemvalue="Application.RegistrationTester" />
+        <item itemvalue="Application.Registration (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.22-corretto-11.0.22-3183f394aec4-fdae186d" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97b63e43-de71-42f0-8038-8c7a08341060" name="Changes" comment="" />
+      <created>1714236930706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714236930706</updated>
+    </task>
+    <servers />
+  </component>
+</project>
